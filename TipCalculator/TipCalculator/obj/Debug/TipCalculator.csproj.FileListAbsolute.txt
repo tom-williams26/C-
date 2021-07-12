@@ -1,0 +1,6 @@
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\Programming Problems\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\tomwi\Desktop\Programming Portfolio\Software Applications\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
